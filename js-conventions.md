@@ -13,3 +13,6 @@ In summary,
 - 80 character line length
 - "Attractive"
 - Do not use the optional parameters of `setTimeout` and `setInterval`
+
+### ReactJS
+- Refer to [John Cobb's Best Practices](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
