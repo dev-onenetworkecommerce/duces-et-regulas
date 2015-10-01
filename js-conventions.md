@@ -16,3 +16,7 @@ In summary,
 
 ### ReactJS
 - Refer to [John Cobb's Best Practices](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+
+### Flux
+- Prefer to have action standards.
+- Refer to [Flux Standard Actions](https://github.com/acdlite/flux-standard-action)
