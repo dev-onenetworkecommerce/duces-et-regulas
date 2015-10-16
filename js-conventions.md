@@ -2,7 +2,7 @@
 
 In most cases, it's safest to follow the code style of the project codebase you're working on.
 
-Note that we are writing in ES6. We loosely follow the [Airbnb's ES6 style guide](https://github.com/airbnb/javascript/tree/es6) (and this one for [ES5](https://github.com/airbnb)) with a few notable exceptions.
+Note that we are writing in ES6. We loosely follow the [Airbnb's ES6 style guide](https://github.com/airbnb/javascript/) (and this one for [ES5](https://github.com/airbnb)) with a few notable exceptions.
 
 In summary,
 
